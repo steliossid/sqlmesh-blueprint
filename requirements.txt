@@ -1,0 +1,5 @@
+sqlmesh
+duckdb
+marimo
+dlt[duckdb]>=1.21.0
+dlt[workspace]
